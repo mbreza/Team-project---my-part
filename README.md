@@ -1,1 +1,2 @@
-# Team-project---my-part
+# Ace_in_the_hole
+Repozytorium dla projektu zespołowego
